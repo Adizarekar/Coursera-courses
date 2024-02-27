@@ -1,0 +1,16 @@
+---
+title: "ggplot_hook"
+author: "Aditya"
+date: "2024-02-20"
+output: html_document
+---
+
+##Setting up my environment
+Notes: 'tidyverse' and 'palmer penguines' installed packages and loaded into libraries.
+
+```{r loading packages}
+library(tidyverse)
+library(ggplot2)
+library(palmerpenguins)
+```
+
