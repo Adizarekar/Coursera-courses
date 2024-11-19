@@ -1,0 +1,5 @@
+staff
+sales_outlet
+sales_transaction
+custometr
+product
